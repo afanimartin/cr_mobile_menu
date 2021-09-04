@@ -15,7 +15,9 @@ To get a local copy up and running follow these simple example steps.
 - Browser
 
 ### Setup
-- clone the repo: `git clone https://www.github.com/afanimartin/cr_mobile_menu.git`
+- clone the repo: `git clone https://github.com/afanimartin/cr_mobile_menu.git`
+- change directory: `cd cr_mobile_menu`
+- change to the feature branch: `git checkout feature`
 
 ### Install
 - Run `npm i`
